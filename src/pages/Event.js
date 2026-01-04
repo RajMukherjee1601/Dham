@@ -23,8 +23,11 @@ const ContactPage = () => {
       <section className="event-section">
         <div className="event-container">
           {/* 👉 Event title & description */}
-          <h3 className="event-title">Chitrakoot</h3>
+          <h3 className="event-title">Karthika Somavara Pooja (1)</h3>
           <p className="event-description">
+            On the auspicious day of Karthika Somavara, devotees gathered at
+            Bhairavidham for special pooja, chanting and darshan. Here are some
+            moments captured from the event.
           </p>
 
           {/* 👉 Heading for the photo container */}
